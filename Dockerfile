@@ -1,4 +1,4 @@
-FROM  index.alauda.cn/asiainfoldp/alpine
+FROM  alpine
 
 #MAINTAINER alex <alexwhen@gmail.com> 
 
