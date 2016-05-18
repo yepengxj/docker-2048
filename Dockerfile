@@ -1,4 +1,4 @@
-FROM  alpine
+FROM  alpine:edge
 
 #MAINTAINER alex <alexwhen@gmail.com> 
 
