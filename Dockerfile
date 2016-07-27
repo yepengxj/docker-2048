@@ -1,4 +1,4 @@
-FROM  registry.dataos.io/library/alpine:3.2
+FROM  registry.dataos.io/library/alpine:3.4
 
 #MAINTAINER alex <alexwhen@gmail.com> 
 
