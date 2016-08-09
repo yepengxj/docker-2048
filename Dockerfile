@@ -1,8 +1,4 @@
-FROM  registry.dataos.io/library/alpine:3.4
-
-#MAINTAINER alex <alexwhen@gmail.com> 
-
-RUN apk --update add nginx
+FROM  registry.dataos.io/library/nginx
 
 COPY 2048 /usr/share/nginx/html
 
