@@ -1,4 +1,4 @@
-FROM  registry.dataos.io/library/nginx
+FROM  registry.dataos.io/datafoundry/nginx
 
 COPY 2048 /usr/share/nginx/html
 
